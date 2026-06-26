@@ -1,0 +1,58 @@
+body{
+    font-family: "Poppins", sans-serif;
+}
+.text1{
+    color: antiquewhite;
+   
+    font-size: medium;
+}
+.logo-part{
+    height: 100px;
+   
+    border: 1px solid black;
+}
+.logo{
+    height: 80px;
+}
+.endpart i {
+    margin-top: 40px;
+    margin-left: 10px;
+    
+}
+.line{
+    background-color: #a3293b;
+    height: 5px;
+    width: 100%;
+}
+
+.endpart i:first-child{
+   margin-left: 60px;
+    
+}
+.navbar{
+    background-color: rgb(19, 41, 76);
+    height: 40px;
+   
+}
+.navbar a{
+    color: white;
+}
+.btn{
+    margin-left: 650px;
+    width: 150px;
+}
+.insta{
+    font-size: 30px;
+    font-weight: 600;
+    margin-left: 570px;
+}
+.follow{
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 650px;
+}
+.footer{
+    background-color: #13294b;
+    color: white;
+}
+
